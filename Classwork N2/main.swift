@@ -9,3 +9,5 @@ import Foundation
 
 print("Hello, World!")
 
+let da: Int = 34
+var net: Int = 44
